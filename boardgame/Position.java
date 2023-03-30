@@ -9,11 +9,11 @@ public class Position{
     this.collumn = collumn;
   }
 
-  public int getRows() {
+  public int getRow() {
     return row;
   }
 
-  public void setRows(int row) {
+  public void setRow(int row) {
     this.row = row;
   }
 
